@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gRaven"]
+	path = gRaven
+	url = https://github.com/cran/gRaven
+	shallow = true
+	registered = true
+[submodule "KinMixLite"]
+	path = KinMixLite
+	url = https://github.com/cran/KinMixLite
+	shallow = true
+	registered = true
+[submodule "Nmix"]
+	path = Nmix
+	url = https://github.com/cran/Nmix
+	shallow = true
+	registered = true
