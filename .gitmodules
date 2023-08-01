@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gRaven"]
-	path = gRaven
-	url = https://github.com/cran/gRaven
 [submodule "KinMixLite"]
 	path = KinMixLite
 	url = https://github.com/cran/KinMixLite
 [submodule "Nmix"]
 	path = Nmix
 	url = https://github.com/cran/Nmix
+[submodule "gRaven"]
+	path = gRaven
+	url = https://github.com/cran/gRaven
